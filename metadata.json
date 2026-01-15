@@ -1,0 +1,7 @@
+{
+  "name": "E-Laporan Guru Bertugas SKKK",
+  "description": "Sistem pelaporan digital mingguan untuk Guru Bertugas SK Kuala Klawang yang dilengkapi dengan kecerdasan buatan (AI) untuk merumus laporan profesional.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
